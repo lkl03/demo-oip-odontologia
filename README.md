@@ -1,2 +1,7 @@
-# demo-oip-odontologia
-Demo web para OIP - Odontólogia — diseñada por eterlab.
+# OIP - Odontólogia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
